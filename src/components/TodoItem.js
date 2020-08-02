@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 
 export class TodoItem extends Component {
 
-    getStyle = () => {
+    getStyle = () =>  {
         return {
             backgroundColor: '#f4f4f4',
             padding: '10px',
